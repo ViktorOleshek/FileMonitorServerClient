@@ -1,0 +1,8 @@
+﻿  Cache.cpp
+  Client.cpp
+  TestServer.cpp
+D:\Visual Studio\VS project\TestServer-master\TestServer\TestServer.cpp(82,126): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\VS project\TestServer-master\TestServer\TestServer.cpp(113,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\VS project\TestServer-master\TestServer\TestServer.cpp(117,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  TestServer.vcxproj -> D:\Visual Studio\VS project\TestServer-master\x64\Debug\TestServer.exe

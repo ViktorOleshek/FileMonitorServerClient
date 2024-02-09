@@ -1,0 +1,4 @@
+D:\Visual Studio\VS project\TestClient-master\TestClient\x64\Debug\TestClient.vcxproj.AssemblyReference.cache
+D:\Visual Studio\VS project\TestClient-master\TestClient\x64\Debug\TestClient.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\VS project\TestClient-master\TestClient\x64\Debug\TestClient.MyForm.resources
+D:\Visual Studio\VS project\TestClient-master\TestClient\x64\Debug\TestClient.vcxproj.GenerateResource.cache

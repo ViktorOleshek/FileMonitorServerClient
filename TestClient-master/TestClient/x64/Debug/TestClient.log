@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestClient.vcxproj -> D:\Visual Studio\VS project\TestClient-master\x64\Debug\TestClient.exe
